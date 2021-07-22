@@ -1,15 +1,15 @@
 {
   "name": "@rpowell/lerna-npm-2",
-  "version": "1.0.3-alpha.1",
+  "version": "1.0.3-alpha.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo test"
   },
   "dependencies": {
-    "@rpowell/lerna-npm-1": "^1.0.3-alpha.1"
+    "@rpowell/lerna-npm-1": "^1.0.3-alpha.2"
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "d9cb66ba6aba15a49912235d3de12d2f57b87b23"
+  "gitHead": "107f807898f3ab7165011884e527b38fc6444ab6"
 }
