@@ -1,0 +1,11 @@
+{
+  "name": "@rpowell/lerna-npm-1",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "author": "",
+  "license": "ISC"
+}
