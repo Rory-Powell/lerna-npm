@@ -1,11 +1,12 @@
 {
   "name": "@rpowell/lerna-npm-1",
-  "version": "1.0.2",
+  "version": "1.0.3-alpha.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo test"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "78beb2346d4c966e3bf3af72f9f85de496b7e974"
 }
