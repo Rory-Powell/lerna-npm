@@ -1,9 +1,10 @@
 {
   "name": "@rpowell/lerna-npm-2",
   "files": [
+    "dist",
     "dist/src"
   ],
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "",
   "main": "dist/src/index.js",
   "scripts": {
@@ -12,7 +13,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@rpowell/lerna-npm-1": "1.0.20",
+    "@rpowell/lerna-npm-1": "1.0.21",
     "typescript": "^4.9.4"
   },
   "author": "",
