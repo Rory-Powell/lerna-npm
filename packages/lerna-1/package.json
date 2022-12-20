@@ -1,6 +1,6 @@
 {
   "name": "@rpowell/lerna-npm-1",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "description": "",
   "main": "dist/src/index.js",
   "scripts": {
@@ -9,10 +9,10 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@rpowell/lerna-npm-1": "1.0.26",
+    "@rpowell/lerna-npm-1": "1.0.27",
     "typescript": "^4.9.4"
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "107f807898f3ab7165011884e527b38fc6444ab6"
+  "gitHead": "dcb1e7cd2528245472d1ae15293181f8811dd633"
 }
